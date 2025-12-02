@@ -1,0 +1,19 @@
+header {
+	text-align: center;
+	background: blue;
+}
+div {
+	text-align: center;
+	background: red;
+}
+footer {
+	text-align: center;
+	background: red;
+}
+menu {
+	text-align: center;
+	background: red;
+}
+body {
+	background: gray;
+}
